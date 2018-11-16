@@ -1,2 +1,2 @@
 # blog
-my bog
+my blog
